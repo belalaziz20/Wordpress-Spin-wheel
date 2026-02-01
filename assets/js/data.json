@@ -1,0 +1,165 @@
+{
+  "colorArray": [
+    "#364C62",
+    "#F1C40F",
+    "#E67E22",
+    "#E74C3C",
+    "#ECF0F1",
+    "#95A5A6",
+    "#16A085",
+    "#27AE60",
+    "#2980B9",
+    "#8E44AD",
+    "#2C3E50",
+    "#F39C12",
+    "#D35400",
+    "#C0392B",
+    "#BDC3C7",
+    "#1ABC9C",
+    "#2ECC71",
+    "#E87AC2",
+    "#3498DB",
+    "#9B59B6",
+    "#7F8C8D"
+  ],
+  "segmentValuesArray": [
+    {
+      "probability": 0.01,
+      "type": "string",
+      "win": true,
+      "resultText": "1000",
+      "userData": {
+        "score": 1000
+      }
+    },
+    {
+      "probability": 6,
+      "type": "string",
+      "win": false,
+      "resultText": "50",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 50,
+      "type": "string",
+      "win": false,
+      "resultText": "10",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 3.9,
+      "type": "string",
+      "win": false,
+      "resultText": "100",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 50,
+      "type": "string",
+      "win": false,
+      "resultText": "10",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 0.7,
+      "type": "string",
+      "win": false,
+      "resultText": "200",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 6,
+      "type": "string",
+      "win": false,
+      "resultText": "50",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 50,
+      "type": "string",
+      "win": false,
+      "resultText": "10",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 0.29,
+      "type": "string",
+      "win": false,
+      "resultText": "500",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 3.9,
+      "type": "string",
+      "win": false,
+      "resultText": "100",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 6,
+      "type": "string",
+      "win": false,
+      "resultText": "50",
+      "userData": {
+        "score": 0
+      }
+    },
+    {
+      "probability": 50,
+      "type": "string",
+      "win": false,
+      "resultText": "10",
+      "userData": {
+        "score": 0
+      }
+    }
+  ],
+  "svgWidth": 1024,
+  "svgHeight": 1024,
+  "wheelStrokeColor": "#D0BD0C",
+  "wheelStrokeWidth": 18,
+  "wheelSize": 1024,
+  "wheelTextOffsetY": 80,
+  "wheelTextColor": "#EDEDED",
+  "wheelTextSize": "2.3em",
+  "wheelImageOffsetY": 0,
+  "wheelImageSize": 480,
+  "centerCircleSize": 100,
+  "centerCircleStrokeColor": "#F1DC15",
+  "centerCircleStrokeWidth": 12,
+  "centerCircleFillColor": "#EDEDED",
+  "segmentStrokeColor": "#E2E2E2",
+  "segmentStrokeWidth": 4,
+  "centerX": 512,
+  "centerY": 512,
+  "hasShadows": false,
+  "numSpins": 99,
+  "spinDestinationArray": [
+    
+  ],
+  "minSpinDuration": 6,
+  "gameOverText": "I HOPE YOU ENJOYED SPIN2WIN WHEEL.<br>NOW GO <a href='https://codecanyon.net/item/spin2win-wheel-spin-it-2-win-it/16337656?ref=chrisgannon' target='_blank'>BUY IT!</a> :)",
+  "invalidSpinText": "INVALID SPIN. PLEASE SPIN AGAIN.",
+  "introText": "YOU HAVE TO<br>SPIN IT <span style='color:#F282A9;'>2</span> WIN IT!",
+  "hasSound": true,
+  "gameId": "9a0232ec06bc431114e2a7f3aea03bbe2164f1aa",
+  "clickToSpin": true
+}
